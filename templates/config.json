@@ -1,0 +1,19 @@
+{
+  "hackathon": "<hackathon name>",
+  "focus": "wow",
+  "ui_weight": 0.7,
+  "feasibility_weight": 0.3,
+  "pitch_minutes": 3,
+  "timeframe": "",
+  "tech_preferences": "",
+  "team": [
+    { "name": "<Name>", "skills": [] }
+  ],
+  "ranking_mix": {
+    "rubric": 0.5,
+    "balance": 0.5,
+    "similarity_penalty": 0.3,
+    "similarity_threshold": 5
+  },
+  "updated_at": "<ISO-8601>"
+}

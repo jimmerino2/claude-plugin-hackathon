@@ -1,0 +1,7 @@
+{
+  "source": "<verbatim rubric text pasted by the user>",
+  "criteria": [
+    { "name": "<Criterion name>", "weight": 0.25, "description": "<what judges look for>" }
+  ],
+  "notes": "<interpretation notes, e.g. 'weights derived from points: 30/100 -> 0.30'>"
+}

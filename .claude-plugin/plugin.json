@@ -1,0 +1,6 @@
+{
+  "name": "hack",
+  "version": "0.1.0",
+  "description": "Hackathon ideation and team handoff: intake -> SDG-based ideas with competitor research -> pick -> amend/design loop -> frozen contracts -> one HANDOFF file per teammate.",
+  "keywords": ["hackathon", "ideation", "sdg", "pitch", "handoff", "team"]
+}

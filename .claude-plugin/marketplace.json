@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hackathon-tools",
+  "description": "Single-plugin marketplace for the hackathon ideation plugin",
+  "owner": { "name": "jimmerino2" },
+  "plugins": [
+    {
+      "name": "hack",
+      "source": "./",
+      "description": "From hackathon track to a confirmed project plus one HANDOFF file per teammate, so each teammate's Claude Code can build their own slice in parallel.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}
